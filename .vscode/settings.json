@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Application\\Developer\\Anaconda3\\envs\\qian\\python.exe",
+    "cSpell.words": [
+        "dataformats",
+        "imread",
+        "kwargs",
+        "logdir",
+        "swalltime",
+        "tensorboard",
+        "tensorflow",
+        "walltime"
+    ]
+}
